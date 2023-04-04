@@ -92,7 +92,7 @@ print("RMSE = ",rmse)
 
 ![L7](https://user-images.githubusercontent.com/119091638/229136756-462f7f04-72f9-48ec-a1c5-5c1535306beb.png)
 
-![L8](https://user-images.githubusercontent.com/119091638/229136787-0e7290fb-48c3-4319-a2c8-d6b89f29165e.png)
+![ex 2 ML](https://user-images.githubusercontent.com/128135244/229796106-27cac2f3-f48c-4011-8f78-88cb06782a6d.png)
 
 
 
